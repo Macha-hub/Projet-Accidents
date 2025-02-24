@@ -30,3 +30,18 @@ Conditions de validation du projet :
 données ;
 - un rapport de modélisation ;
 - un rapport final et le GitHub associé.
+
+
+Lien vers les fichiers trop volumineux:
+Datasets véhicules de 2005 à 2023: https://drive.google.com/drive/folders/1bTIWwj2SKnXoemK033G66o7x6FVeatOF?usp=sharing
+Datasets usagers de 2005 à 2023: https://drive.google.com/drive/folders/1QHElhFQvLzPwS2TXWvD8YAPZEgNlKWf3?usp=sharing
+Datasets lieux de 2005 à 2023: https://drive.google.com/drive/folders/1iX4MTrlUC6RSkW-hlMBBRyU52VUlE4Fo?usp=sharing
+Datasets caractéristiques de 2005 à 2023:https://drive.google.com/drive/folders/1J4k2U98RLoRYiMGqLTs9w6XhrspFra2x?usp=sharing
+
+all_data_vehicules_2019_2023:https://drive.google.com/file/d/1CHSCY39San7d54XXS9f-KIMVATB0Awf9/view?usp=sharing
+all_data_usagers_2019_2023:https://drive.google.com/file/d/1_Mv4Ao1QAS2EWihSmbtw6_kmUA3eEFOZ/view?usp=sharing
+all_data_lieux_2019_2023:https://drive.google.com/file/d/1dI2_hjFvNiLmz4vhNeffoISpxqtgP-67/view?usp=sharing
+all_data_caractéristiques_2019_2023:https://drive.google.com/file/d/1zx4PZSnZBqgYC8tn99qFxucmmJQlii4L/view?usp=sharing
+
+df_total_final_2019_2023:https://drive.google.com/file/d/1JceK8Bf5Cxtsrwldaow3aBbtC_XJbLc4/view?usp=sharing
+df_machine_learning:[https://drive.google.com/drive/u/0/folders/1sAd7_F_1PtVLqSZZo20fhKY_J10nvsdC](https://drive.google.com/file/d/194Uh1i_n0fVimLHpuXlKbW4FRwjCqaaC/view?usp=sharing)
